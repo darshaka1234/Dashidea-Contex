@@ -1,3 +1,6 @@
+Contact management appication with React, Redux toolkit & tailwind css
+![Screenshot (696)](https://user-images.githubusercontent.com/60168877/210488744-e1470ae2-b8ac-4fd0-b97f-4d6542862906.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
