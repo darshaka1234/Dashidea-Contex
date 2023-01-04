@@ -1,4 +1,4 @@
-<b>Contact management appication with React, Redux toolkit & tailwind css</b>
+<h2>Contact management appication with React, Redux toolkit & tailwind css</h2>
 
 
 
